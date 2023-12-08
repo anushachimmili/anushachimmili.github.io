@@ -2,13 +2,11 @@
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Credentials](#credentials)
-3. [Leadership Highlights](#leadership-highlights)
-4. [Education](#education)
-5. [Work Experience](#work-experience)
-6. [Technical Skills](#technical-skills)
-7. [Projects](#projects)
-8. [Talks & Lectures](#talks--lectures)
+2. [Education](#education)
+3. [Work Experience](#work-experience)
+4. [Technical Skills](#technical-skills)
+5. [Projects](#projects)
+6. [Contact](#contact)
 
 ## Introduction
 I am a seasoned Data Scientist with a strong background in Big Data Analytics, Biomedical Engineering, and Biotechnology. I have a proven track record in various roles such as Senior Data Engineer, Data Science Intern, Senior Data Scientist, Data Scientist, Data Analyst, and Data Analytics Consultant. My experience spans across multiple industries including Concentrix Catalyst, Aureus Tech Systems, Target Corporation, and EXL Inductis.
@@ -74,16 +72,19 @@ and customer satisfaction levels.
 insights, resulting in a 10% increase in customer acquisition.
 
 ### Technical Skills
-##### Machine Learning & Statistical Techniques : Generalized linear models, Tree-based models, Ensemble methods, Time series forecasting, SVM, Neural Networks, Naïve Bayes, Clustering, PCA, NLP, Topic modeling
-
-##### Technologies : Big Data - Hive, Hadoop, Docker, Drone CI, AWS EC2 & S3, Apache Spark, Apache Oozie
-
-##### Programming Languages/Libraries: Python (scikit-learn, prophet, nltk, spaCy, gurobi-py, keras), SQL, R, PySpark
+Machine Learning & Statistical Techniques - Generalized linear models, Tree-based models, Ensemble methods, Time series forecasting, SVM, Neural Networks, Naïve Bayes, Clustering, PCA, NLP, Topic modeling
+Technologies - Big Data - Hive, Hadoop, Docker, Drone CI, AWS EC2 & S3, Apache Spark, Apache Oozie
+Programming Languages/Libraries - Python (scikit-learn, prophet, nltk, spaCy, gurobi-py, keras), SQL, R, PySpark
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
+### Image Caption Generation
+- Implemented a Flask application that generates captions for images using models such as BLIP and Git-Base-COCO
+- Designed a robust database system for storing generated captions, resulting in efficient retrieval of saved captions
 
-
-
-
-
+## Activities and Achievements
+- Received Chief Data Science & Analytics Officer Award & Target Quarterly Award for Digital Item Forecasting
+in Target in Q4 2021
+- Conducted Tableau workshop for undergrad students as part of Computer Information Systems club in
+University of Central Missouri in 2022
+- Participated in Grace Hopper: Women in Technology conference 2020 and attended workshops in Target
+MultiplAI, Target Elevate for Women in Data Sciences
