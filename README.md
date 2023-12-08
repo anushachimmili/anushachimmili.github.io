@@ -88,5 +88,6 @@ My technical skills include a wide range of Machine Learning & Statistical Techn
 
 ## Contact
 - **Email:** chanusha94@gmail.com
+- [Download Resume](/assets/resume/resume.pdf)
 
 ---
