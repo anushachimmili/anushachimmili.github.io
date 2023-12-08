@@ -1,7 +1,7 @@
 title: Anusha Chimmili
-logo: /assets/img/image.png
+logo: /assets/img/image1.png
 description: >
-  Accomplished Data Scientist and Advocate for <strong>Diversity in Tech</strong>
-show_downloads: true
+  <strong>Accomplished Data Scientist and Advocate for Diversity in Tech</strong>
+# show_downloads: true
 theme: jekyll-theme-minimal
 resume: /assets/resume/resume.pdf
