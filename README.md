@@ -6,7 +6,8 @@
 3. [Work Experience](#work-experience)
 4. [Technical Skills](#technical-skills)
 5. [Projects](#projects)
-6. [Contact](#contact)
+6. [Activities & Achievements](#activities-and-achievements)
+7. [Contact](#contact)
 
 ## Introduction
 I am a seasoned Data Scientist with a strong background in Big Data Analytics, Biomedical Engineering, and Biotechnology. I have a proven track record in various roles such as Senior Data Engineer, Data Science Intern, Senior Data Scientist, Data Scientist, Data Analyst, and Data Analytics Consultant. My experience spans across multiple industries including Concentrix Catalyst, Aureus Tech Systems, Target Corporation, and EXL Inductis.
