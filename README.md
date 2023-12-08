@@ -90,6 +90,7 @@ I actively contribute to projects aimed at showcasing the invaluable contributio
 ## Advocacy and Achievements
 - Recognized with the Chief Data Science & Analytics Officer Award and Target Quarterly Award for Digital Item Forecasting, emphasizing the pivotal role of women in technology.
 - Conducted Tableau workshops, participated in women-centric tech conferences, and engaged in initiatives like Grace Hopper: Women in Technology, showcasing my commitment to advancing diversity and inclusion.
+
 ---
 
 ## Contact
