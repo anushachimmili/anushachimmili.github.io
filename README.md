@@ -6,7 +6,7 @@
 3. [Work Experience](#work-experience)
 4. [Technical Skills](#technical-skills)
 5. [Projects](#projects)
-6. [Activities & Achievements](#activities-and-achievements)
+6. [Advocacy & Achievements](#advocacy-and-achievements)
 7. [Contact](#contact)
 
 ---
@@ -19,6 +19,9 @@ Beyond my technical prowess, I am dedicated to breaking barriers and empowering 
 
 ### Technical Expertise
 My technical skills encompass a wide array of Machine Learning & Statistical Techniques and Programming Languages. Through various projects, including initiatives that promote women in tech, I have demonstrated the transformative power of data science in solving real-world challenges.
+
+### Empowering Women in Tech
+I actively contribute to projects aimed at showcasing the invaluable contributions of women in data science, underscoring the importance of gender diversity in technology.
 
 
 ---
@@ -84,11 +87,9 @@ My technical skills encompass a wide array of Machine Learning & Statistical Tec
 
 ---
 
-## Activities and Achievements
-- Received Chief Data Science & Analytics Officer Award & Target Quarterly Award for Digital Item Forecasting in Target in Q4 2021.
-- Conducted Tableau workshop for undergrad students as part of Computer Information Systems club in University of Central Missouri in 2022.
-- Participated in Grace Hopper: Women in Technology conference 2020 and attended workshops in Target MultiplAI, Target Elevate for Women in Data Sciences.
-
+## Advocacy and Achievements
+- Recognized with the Chief Data Science & Analytics Officer Award and Target Quarterly Award for Digital Item Forecasting, emphasizing the pivotal role of women in technology.
+- Conducted Tableau workshops, participated in women-centric tech conferences, and engaged in initiatives like Grace Hopper: Women in Technology, showcasing my commitment to advancing diversity and inclusion.
 ---
 
 ## Contact
