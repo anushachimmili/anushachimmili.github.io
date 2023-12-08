@@ -9,8 +9,8 @@ My technical skills include a wide range of Machine Learning & Statistical Techn
 Please read on to learn more about my education, work experience, technical skills, projects, and talks & lectures.
 
 ## Education
-- M.S., Big Data Analytics & Information Technology | Univeristy of Central Missouri | GPA- 3.8/10 (_Dec 2023_)
-- M.Tech., Biomedical Engineering	| Indian Institute of Technology Bombay | GPA- 9.5/10 (_June 2018_) 	 		 	    
+- M.S., Big Data Analytics | Univeristy of Central Missouri | GPA- 3.8/10 (_Dec 2023_)
+- M.Tech., Biomedical Engg.	| Indian Institute of Technology Bombay | GPA- 9.5/10 (_June 2018_) 	 		 	    
 - B.Tech., Biotechnology | Osmania University | GPA- 8.4/10 (_May 2015_)
 
 ## Work Experience
