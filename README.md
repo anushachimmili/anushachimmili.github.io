@@ -1,23 +1,68 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
-Machine Learning & Statistical Techniques : Generalized linear models, Tree-based models, Ensemble methods, Time series forecasting, SVM, Neural Networks, Naïve Bayes, Clustering, PCA, NLP, Topic modeling
-Technologies : Big Data - Hive, Hadoop, Docker, Drone CI, AWS EC2 & S3, Apache Spark, Apache Oozie
-Programming Languages/Libraries: Python (scikit-learn, prophet, nltk, spaCy, gurobi-py, keras), SQL, R, PySpark
+## Technical Skills
+#### Machine Learning & Statistical Techniques : 
+Generalized linear models, Tree-based models, Ensemble methods, Time series forecasting, SVM, Neural Networks, Naïve Bayes, Clustering, PCA, NLP, Topic modeling
+#### Technologies : 
+Big Data - Hive, Hadoop, Docker, Drone CI, AWS EC2 & S3, Apache Spark, Apache Oozie
+### Programming Languages/Libraries: 
+Python (scikit-learn, prophet, nltk, spaCy, gurobi-py, keras), SQL, R, PySpark
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- M.S., Big Data Analytics & Information Technology | Univeristy of Central Missouri (_Dec 2023_) (_GPA - 3.8/4.0_)		- M.Tech., Biomedical Engineering	| Indian Institute of Technology Bombay (_June 2018_) (_GPA - 9.51/10_)		 		 	     
+- B.Tech., Biotechnology | Osmania University (_May 2015_) (_GPA - 8.4/10_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+
+**Senior Data Engineer @ Concentrix Catalyst (_August 2023 - Present_)**
+- Documented the currentETL workflows in Ab Initio, analyzing data orchestration for over 10 graphs to efficiently
+plan the migration to Spark ecosystem and then onto AWS
+- Changed Ab Initio SQL queries to PySpark, creating new ETL workflows that improved efficiency by reducing data
+processing time by 30%, resulting in faster data delivery to end-users
+- Conducted stress testing on data movement, validating that legacy workflow logic remained intact while achieving a
+98% success rate in data transfer
+
+**Data Science Intern @Aureus Tech Systems (_February 2023 - May 2023_)**
+- Identified and resolved 15 different categories of Personally Identifiable Information (PII) using NLP tools, resulting in enhanced data privacy and compliance
+- Improved the accuracy of identifying names, addresses, and Social Security Numbers (SSNs) by 15% through
+rigorous quality testing and post-processing techniques
+- Implemented the optimized model in production using Azure Databricks to analyze approximately 30,000 extracted
+text files of various formats, streamlining the PII redaction process
+
+**Senior Data Scientist @ Target Corporation (_October 2021 - July 2022_)**
+- Developed and implemented Generalized Additive Mixed Models (GAMM) to accurately forecast demand for ~300k
+items on Target's Digital Platforms, resulting in a 20% reduction in inventory replenishment time
+- Consolidated and streamlined data from 6 different sources to provide comprehensive visibility of eligible items
+across 5 fulfillment types on digital platforms, increasing overall efficiency by 15%
+- Successfully migrated 7 workflows from legacy systems to the Spark3 ecosystem, ensuring enhanced data security
+measures and reducing potential risks by 30%
+
+**Data Scientist @ Target Corporation (_July 2020 - September 2021_)**
+- Developed and implemented a comprehensive validation framework utilizing 8 dashboards to track the accuracy and
+bias of Timeseries models forecasting sales for ~100k items, resulting in improved model performance across all
+assortment pyramids
+- Optimized model accuracy by conducting hyper-parameter tuning for trend and seasonality components, resulting in
+an average increase of 10-15% in forecast accuracy
+- Expanded the scope of the forecasting pipeline to include 60 out of 110 departments under Target's inventory list,
+while simultaneously reducing the initial runtime by 2 hours, allowing for more efficient and scalable forecasting
+processes
+
+**Data Analyst @ Target Corporation (_December 2019 - June 2020_)**
+- Streamlined the reporting dashboards for labor planning during peak season by collaborating with S&OP business
+teams, resulting in a 30% reduction in time spent on report generation and analysis
+- Automated the generation of 21 reports from different databases critical to labor planning in distribution centers,
+eliminating the need for manual updating and reducing data errors by 15%
+- Improved labor forecast accuracy by integrating real-time data feeds into reporting dashboards, resulting in a
+decrease of overstaffing by 20% during peak season
+
+**Data Analytics Consultant@ EXL Inductis (_July 2018 - October 2019_)**
+- Used 110 consumer specific attributes from Experian data to identify potential customers for targeted marketing,
+resulting in a 15% increase in sales
+- Implemented sentimental analysis on customer reviews, providing actionable insights to improve product offerings
+and customer satisfaction levels.
+- Collaborated with cross-functional teams to develop and implement marketing strategies based on data-driven
+insights, resulting in a 10% increase in customer acquisition.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
