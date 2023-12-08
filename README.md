@@ -85,6 +85,10 @@ I actively contribute to projects aimed at showcasing the invaluable contributio
 - Implemented a Flask application that generates captions for images using models such as BLIP and Git-Base-COCO.
 - Designed a robust database system for storing generated captions, resulting in efficient retrieval of saved captions.
 
+### Expense Tracking System
+- Built a Java-based web application using Spring Framework that tracks all the user expenses across different categories like Grocery, Entertainment, Travel etc 
+- Designed a user-friendly interface that allows easy tracking of expenses and the savings over time.
+
 ---
 
 ## Advocacy and Achievements
