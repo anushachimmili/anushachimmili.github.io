@@ -1,12 +1,22 @@
 # Data Scientist
 
-## About
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Credentials](#credentials)
+3. [Leadership Highlights](#leadership-highlights)
+4. [Education](#education)
+5. [Work Experience](#work-experience)
+6. [Technical Skills](#technical-skills)
+7. [Projects](#projects)
+8. [Talks & Lectures](#talks--lectures)
 
+## Introduction
 I am a seasoned Data Scientist with a strong background in Big Data Analytics, Biomedical Engineering, and Biotechnology. I have a proven track record in various roles such as Senior Data Engineer, Data Science Intern, Senior Data Scientist, Data Scientist, Data Analyst, and Data Analytics Consultant. My experience spans across multiple industries including Concentrix Catalyst, Aureus Tech Systems, Target Corporation, and EXL Inductis.
 
 My technical skills include a wide range of Machine Learning & Statistical Techniques and Programming Languages. I have also been involved in several projects.
 
 Please read on to learn more about my education, work experience, technical skills, projects, and talks & lectures.
+
 
 ## Education
 - M.S., Big Data Analytics | Univeristy of Central Missouri | GPA- 3.8/10 (_Dec 2023_)
