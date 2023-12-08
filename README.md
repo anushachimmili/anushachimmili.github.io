@@ -12,9 +12,14 @@
 ---
 
 ## Introduction
-I am a seasoned Data Scientist with a strong background in Big Data Analytics, Biomedical Engineering, and Biotechnology. I have a proven track record in various roles such as Senior Data Engineer, Data Science Intern, Senior Data Scientist, Data Scientist, Data Analyst, and Data Analytics Consultant. My experience spans across multiple industries including Concentrix Catalyst, Aureus Tech Systems, Target Corporation, and EXL Inductis.
+I am Anusha Chimmili, an accomplished Data Scientist deeply passionate about leveraging data science to drive impactful change. With a robust background in Big Data Analytics, Biomedical Engineering, and Biotechnology, I have excelled in diverse roles, including Senior Data Engineer, Data Scientist, and Data Analytics Consultant. My journey spans across renowned organizations such as Concentrix Catalyst, Aureus Tech Systems, Target Corporation, and EXL Inductis.
 
-My technical skills include a wide range of Machine Learning & Statistical Techniques and Programming Languages. I have also been involved in several projects.
+### Championing Diversity in Data Science
+Beyond my technical prowess, I am dedicated to breaking barriers and empowering women in the dynamic realm of data science. As a fervent advocate for diversity and inclusion, I actively contribute to projects that highlight the significance of women in technology, fostering a more inclusive and innovative environment.
+
+### Technical Expertise
+My technical skills encompass a wide array of Machine Learning & Statistical Techniques and Programming Languages. Through various projects, including initiatives that promote women in tech, I have demonstrated the transformative power of data science in solving real-world challenges.
+
 
 ---
 
