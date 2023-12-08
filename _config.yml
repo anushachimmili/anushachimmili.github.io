@@ -1,5 +1,6 @@
 title: Anusha Chimmili
 logo: /assets/img/image.png
-description: Passionate data scientist 
-#show_downloads: true
+description: Passionate Data Scientist
+show_downloads: true
 theme: jekyll-theme-minimal
+resume: /assets/resume/resume.pdf
