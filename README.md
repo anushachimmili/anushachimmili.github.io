@@ -12,13 +12,13 @@
 ---
 
 ## Introduction
-I am Anusha Chimmili, an accomplished Data Scientist deeply passionate about leveraging data science to drive impactful change. With a robust background in Big Data Analytics, Biomedical Engineering, and Biotechnology, I have excelled in diverse roles, including Senior Data Engineer, Data Scientist, and Data Analytics Consultant. My journey spans across renowned organizations such as Concentrix Catalyst, Aureus Tech Systems, Target Corporation, and EXL Inductis.
+I thrive on turning data into real impact. With a solid background in Big Data Analytics, Biomedical Engineering, and Biotechnology, I've excelled in roles like Senior Data Engineer and Data Scientist at respected companies including Concentrix Catalyst, Aureus Tech Systems, Target Corporation, and EXL Inductis.
 
 ### Championing Diversity in Data Science
-Beyond my technical prowess, I am dedicated to breaking barriers and empowering women in the dynamic realm of data science. As a fervent advocate for diversity and inclusion, I actively contribute to projects that highlight the significance of women in technology, fostering a more inclusive and innovative environment.
+Beyond my technical prowess, I am dedicated to breaking barriers and empowering women in the dynamic realm of data science. As an advocate for diversity and inclusion, I actively contribute to projects that highlight the significance of women in technology, fostering a more inclusive and innovative environment.
 
 ### Technical Expertise
-My technical skills encompass a wide array of Machine Learning & Statistical Techniques and Programming Languages. Through various projects, including initiatives that promote women in tech, I have demonstrated the transformative power of data science in solving real-world challenges.
+My technical skills encompass a wide array of Machine Learning & Statistical Techniques along with programming languages like Python, Java. Through various projects, including initiatives that promote women in tech, I have demonstrated the transformative power of data science in solving real-world challenges.
 
 ### Empowering Women in Tech
 I actively contribute to projects aimed at showcasing the invaluable contributions of women in data science, underscoring the importance of gender diversity in technology.
