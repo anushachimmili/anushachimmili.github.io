@@ -28,13 +28,13 @@ I actively contribute to projects aimed at showcasing the invaluable contributio
 
 ## Education
 - **M.S., Big Data Analytics**  
-  University of Central Missouri | GPA- 3.8/4.0 (_Dec 2023_)
+  University of Central Missouri | GPA- 3.8/4.0 (_Dec'23_)
 
 - **M.Tech., Biomedical Engg.**  
-  Indian Institute of Technology Bombay | GPA- 9.5/10 (_June 2018_)
+  Indian Institute of Technology Bombay | GPA- 9.5/10 (_Jun'18_)
 
 - **B.Tech., Biotechnology**  
-  Osmania University | GPA- 8.4/10 (_May 2015_)
+  Osmania University | GPA- 8.4/10 (_May'15_)
 
 ---
 
