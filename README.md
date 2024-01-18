@@ -99,6 +99,6 @@ I actively contribute to projects aimed at showcasing the invaluable contributio
 
 ## Contact
 - **Email:** anusha.chimmili.ofc@gmail.com
-- [Download Resume](/assets/resume/resume.pdf)
+- [Download Resume](/assets/resume/resume_new.pdf)
 
 ---
