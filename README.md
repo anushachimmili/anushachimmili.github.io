@@ -40,12 +40,7 @@ I actively contribute to projects aimed at showcasing the invaluable contributio
 
 ## Work Experience
 
-### Senior Data Engineer - Concentrix Catalyst (_Aug'23 - Present_)
-- Documented the current ETL workflows in Ab Initio, analyzing data orchestration for over 10 graphs to efficiently plan the migration to Spark ecosystem and then onto AWS.
-- Changed Ab Initio SQL queries to PySpark, creating new ETL workflows that improved efficiency by reducing data processing time by 30%, resulting in faster data delivery to end-users.
-- Conducted stress testing on data movement, validating that legacy workflow logic remained intact while achieving a 98% success rate in data transfer.
-
-### Data Science Intern - Aureus Tech Systems (_Feb'23 - May'23_)
+### Data Science Intern - Aureus Tech Systems (_Jan'23 - May'23_)
 - Identified and resolved 15 different categories of Personally Identifiable Information (PII) using NLP tools, resulting in enhanced data privacy and compliance.
 - Improved the accuracy of identifying names, addresses, and Social Security Numbers (SSNs) by 15% through rigorous quality testing and post-processing techniques.
 - Implemented the optimized model in production using Azure Databricks to analyze approximately 30,000 extracted text files of various formats, streamlining the PII redaction process.
